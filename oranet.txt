@@ -1,0 +1,362 @@
+﻿@media (min-width:768px) {
+body {
+background: url('https://www.kapwing.com/videos/689b07ee24fbc15ae2ab08e0') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+}
+
+@media (max-width: 768px) {
+body {
+background: url('https://www.kapwing.com/videos/689b07ee24fbc15ae2ab08e0') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+width: auto !important;
+min-width: 600px !important;
+}
+}
+
+color: #FCE8C5 !important;
+font-family:’Luminari’;
+}
+
+/* width */
+::-webkit-scrollbar {
+   width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+   background: #FFE6C1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+   background: #F5B54C; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+   background: #E8A73D; 
+
+}
+.col-md-9.col-xs-12 {
+background: #F5B54C !important;
+border: 4px double #FCE8C5 !important;
+border-top: none !important;
+border-right: none !important;
+border-bottom :none !important;
+}
+
+div.container.main {
+background: #F5B54C !important;
+border: 4px double #FCE8C5 !important;
+border-left: none !important;
+}
+.navbar {
+background: #E8A73D !important;
+border: 1px solid #FCE8C5 !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: ’Luminari’ ;
+}
+
+.navbar li a {
+color: #FFE6C1 !important;
+}
+
+.navbar li a:hover {
+background: #F7BE60 !important;
+}
+
+.breadcrumb {
+background: #350306 !important;
+color: #E89E27 !important;
+border: 1px solid #FCE8C5 !important;
+}
+
+.feature {
+background: #F5B54C !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+}
+
+.topbar {
+background: #E89816 !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+border-top: none !important;
+border-bottom: 4px solid #FCE8C5 !important;
+}
+
+.sidebar {
+background: #F5B54C !important;
+color: #FCE8C5 !important;
+border: none !important;
+}
+
+.panel {
+background: none !important;
+border: none !important;
+box-shadow: none !important;
+}
+
+.chat_light {
+background: none !important;
+color: #FCE8C5 !important;
+border: none !important;
+text-align: center !important;
+}
+
+.chat_dark {
+background: none !important;
+color: #FCE8C5 !important;
+border: none !important;
+text-align: center !important;
+}
+
+h1 {
+text-align: center !important;
+color: #FFE6C1 !important;
+font-family: 'Luminari' !important;
+}
+
+h3 {
+text-align: center !important;
+color: #FFE6C1 !important;
+font-family: 'Luminari' !important;
+}
+
+.top {
+background: #F5B54C !important;
+color: #FFE6C1 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+font-family: 'Luminari' !important;
+}
+
+th {
+background: #F5B54C !important;
+color: #FFE6C1 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+font-family: 'Luminari' !important;
+}
+
+.bottom {
+background: #F5B54C !important;
+color: #FFE6C1 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+font-family: 'Luminari' !important;
+}
+
+.left {
+background: #F5B54C !important;
+color: #FFE6C1 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+font-family: 'Luminari' !important;
+}
+
+td {
+background: #F7BE60 !important;
+color: #FFE6C1 !important;
+border: none !important;
+}
+
+.right_cub {
+background: #F5B54C !important;
+}
+
+.cave-grid {
+background: #F7BE60 !important;
+color: #FFE6C1 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+font-family: 'Luminari' !important;
+}
+
+.beetle-grid {
+background: #F7BE60 !important;
+color: #FFE6C1 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+font-family: 'Luminari' !important;
+}
+
+a:link {
+color: #FFE6C1 !important;
+}
+
+a:visited {
+color: #FFE6C1 !important;
+}
+
+a:hover {
+color: #F7BE60 !important;
+}
+
+.alert-danger {
+background: #F7BE60 !important;
+color: #0C0608 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+}
+
+.alert-success {
+background: #F7BE60 !important;
+color: #0C0608 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+}
+
+.attack-won {
+background: #FFE6C1 !important;
+color: #0C0608 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+}
+
+.attack-lost {
+background: #F7BE60 !important;
+color: #0C0608 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+}
+
+input[type="button"] {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"] {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"] {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"] {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="button"]:hover {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"]:hover {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"]:focus {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"]:focus {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea:focus {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select:focus {
+background: none !important;
+color: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+.progress {
+background: #FCE8C5 !important;
+border: 1px solid #FCE8C5 !important;
+}
+
+.progress div {
+color: #8A6C39 !important;
+}
+
+.progress-bar-warning {
+background: #ED2402 !important;
+}
+
+.progress-bar-danger {
+background: #ED2402 !important;
+}
+
+.progress-bar-success {
+background: #ED2402 !important;
+}
+
+.progress-bar {
+background: #ED2402 !important;
+}
+
